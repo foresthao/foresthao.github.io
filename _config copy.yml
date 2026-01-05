@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myprofile.jpg"
+  avatar           : "profile.png"
   name             : "Hao Yan"
   pronouns         : # example: "she/her"  
   bio              : "A Phd candidate in Harbin Institute of Technology (Shenzhen) and an intern of PCL. "
