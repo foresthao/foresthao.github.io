@@ -46,5 +46,35 @@ I am open to academic collaboration and discussion. If you would like to connect
 
 ## Publications
 
+### Journal Papers
+
+- [中科院二区] **Yan Hao**, Liao Wenhao, Gu Zhaoquan, et al. *ContrastMatcher: Adaptive Contrastive Provenance Graph Matching for Host-Based Attack Detection*. **IEEE Internet of Things Journal**, 2025. DOI: 10.1109/JIOT.2025.3633319.
+- [JCR Q1] **Yan Hao**, Du Lei, Gu Zhaoquan, et al. *Adversarial Hierarchical-Aware Edge Attention Learning Method for Network Intrusion Detection*. **Applied Sciences**, 2025, 15(14): 7915.
+- [中科院二区] Du Lei, Li Jiarui, **Yan Hao**, Fang Binxing, Gu Zhaoquan, et al. *Harnessing Large Language Models for Automated Intrusion Detection Rule Generation in Cyber Range*. **IEEE Network**, 2025.
+
+### Conference Papers
+
+- [CCF-B] **Yan Hao**, Du Lei, Gu Zhaoquan, et al. *ADMatcher: Self-supervised Subgraph Matching via Adaptive Dense-Aware Graph Contrastive Learning*. In **DASFAA**, 2025.
+- [CCF-C] **Yan Hao**, Zhang Qianzhen, Guo Deke, et al. *Anomaly Detection of Network Streams via Dense Subgraph Discovery*. In **ICCCN**, 2021, pp. 1–9.
+- [CCF-C] **Yan Hao**, Zhang Qianzhen, Guo Deke, et al. *An Intelligent Game Theory Framework for Detecting Advanced Persistent Threats*. In **ICPADS**, 2021, pp. 450–457.
+
+### Under Review / Submitted
+
+- **Yan Hao**, Gu Zhaoquan, et al. *A new paper for continual graph learning*. **IEEE Transactions on Dependable and Secure Computing (TDSC)**, submitted.
+
+- **Yan Hao** et al. *A new paper for Provenance-Based Attack Detection*. **(ACM CCS 2026 A)**, submitted.  
+
+
+### Patents
+
+- [1] **闫昊**，杜磊，顾钊铨等. *基于密集感知图对比学习的子图匹配方法及相关设备*. CN119229152B, 2025-03-18.
+- [2] 顾钊铨，**闫昊**等. *基于边缘注意力学习的网络入侵检测方法及系统*. CN120415915B, 2025-09-02.
+- [3] 贾焰，顾钊铨，方滨兴，**闫昊**等. *基于增量式查询索引树的MDATA动态子图匹配方法和系统*. CN115913791B, 2023-06-13.
+- [4] 贾焰，顾钊铨，方滨兴，**闫昊**等. *一种基于MDATA子图匹配的多步攻击检测方法*. CN115842684B, 2023-05-12.
+
+### Standards
+
+- 贾焰，顾钊铨，**闫昊**等. *网络空间安全仿真--平台攻防演练行为检测能力要求和测试方法*. 2024-2091T-YD.
+
 Please see the **[Publications](/publications/)** page for the full list.  
-(You can link PDFs, code, and BibTeX for each paper.)
+
