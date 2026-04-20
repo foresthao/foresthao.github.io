@@ -48,7 +48,7 @@ I am open to academic collaboration and discussion. If you would like to connect
 
 ### Journal Papers
 
-- [中科院二区] **Yan Hao**, Liao Wenhao, Gu Zhaoquan, et al. *ContrastMatcher: Adaptive Contrastive Provenance Graph Matching for Host-Based Attack Detection*. **IEEE Internet of Things Journal**, 2025. DOI: 10.1109/JIOT.2025.3633319.
+- [中科院一区] **Yan Hao**, Liao Wenhao, Gu Zhaoquan, et al. *ContrastMatcher: Adaptive Contrastive Provenance Graph Matching for Host-Based Attack Detection*. **IEEE Internet of Things Journal**, 2025. DOI: 10.1109/JIOT.2025.3633319.
 - [JCR Q1] **Yan Hao**, Du Lei, Gu Zhaoquan, et al. *Adversarial Hierarchical-Aware Edge Attention Learning Method for Network Intrusion Detection*. **Applied Sciences**, 2025, 15(14): 7915.
 - [中科院二区] Du Lei, Li Jiarui, **Yan Hao**, Fang Binxing, Gu Zhaoquan, et al. *Harnessing Large Language Models for Automated Intrusion Detection Rule Generation in Cyber Range*. **IEEE Network**, 2025.
 
